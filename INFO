@@ -1,0 +1,9 @@
+{
+    "name": "self-hosted-lyric",
+    "displayname": "Self-Hosted Lyric",
+    "description": "self-hosted lyric",
+    "version": "1.5",
+    "module": "lyric.php",
+    "type": "lyric",
+    "class": "LyricSelf"
+}
